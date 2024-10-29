@@ -1,0 +1,30 @@
+{
+    "extName": {
+      "message": "Pesquisa Rápida Amazon - Clique direito para pesquisar no Amazon",
+      "description": "The name of the extension"
+    },
+    "extDescription": {
+      "message": "Pesquise instantaneamente na Amazon com um clique direito! Selecione texto em qualquer página da web para pesquisar no seu site preferido da Amazon. Escolha entre mais de 20 lojas globais da Amazon para definir o seu padrão. Simplifique a sua experiência de compra no seu site local da Amazon.",
+      "description": "The description of the extension"
+    },
+    "optionsTitle": {
+      "message": "Configurações de Pesquisa Rápida Amazon",
+      "description": "The title of the options page"
+    },
+    "optionsSelectStore": {
+      "message": "Selecione o seu site preferido da Amazon para pesquisas rápidas:",
+      "description": "The label for the store selection dropdown"
+    },
+    "saveButton": {
+      "message": "Guardar Configurações",
+      "description": "The text for the save button"
+    },
+    "settingsSaved": {
+      "message": "Configurações guardadas! As alterações terão efeito imediatamente.",
+      "description": "The message shown when settings are saved"
+    },
+    "contextMenuTitle": {
+      "message": "Encontrar '%s' na Amazon",
+      "description": "Context menu item title"
+    }
+  }

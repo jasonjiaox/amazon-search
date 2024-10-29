@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Amazon pikahaku - Hiiren oikealla painikkeella haku Amazonissa",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Hae Amazonista välittömästi hiiren oikealla painikkeella! Valitse teksti miltä tahansa verkkosivulta hakeaksesi suosikki Amazon-sivustoltasi. Valitse yli 20 globaalista Amazon-kaupasta asettaaksesi oletuksesi. Yksinkertaista ostoskokemustasi paikallisella Amazon-verkkosivustollasi.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Amazon pikahaun asetukset",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "Valitse suosikki Amazon-verkkosivustosi pikahakuja varten:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "Tallenna asetukset",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "Asetukset tallennettu! Muutokset tulevat voimaan välittömästi.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Etsi '%s' Amazonista",
+    "description": "Context menu item title"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Căutare rapidă Amazon - Clic dreapta pentru a căuta pe Amazon",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Căutați instant pe Amazon cu un clic dreapta! Selectați text pe orice pagină web pentru a căuta pe site-ul Amazon preferat. Alegeți dintre peste 20 de magazine Amazon globale pentru a seta implicit. Simplificați experiența de cumpărături pe site-ul local Amazon.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Setări de căutare rapidă Amazon",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "Selectați site-ul Amazon preferat pentru căutări rapide:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "Salvează setările",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "Setările au fost salvate! Modificările vor intra în vigoare imediat.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Caută '%s' pe Amazon",
+    "description": "Context menu item title"
+  }
+}

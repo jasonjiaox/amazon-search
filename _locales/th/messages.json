@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "ค้นหา Amazon อย่างรวดเร็ว - คลิกขวาเพื่อค้นหาใน Amazon",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "ค้นหาใน Amazon ทันทีด้วยการคลิกขวา! เลือกข้อความบนหน้าเว็บใดก็ได้เพื่อค้นหาในเว็บไซต์ Amazon ที่คุณชื่นชอบ เลือกจากร้านค้า Amazon ทั่วโลกกว่า 20 แห่งเพื่อตั้งค่าเริ่มต้นของคุณ ทำให้ประสบการณ์การช็อปปิ้งของคุณบนเว็บไซต์ Amazon ในท้องถิ่นของคุณง่ายขึ้น",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "การตั้งค่าการค้นหา Amazon อย่างรวดเร็ว",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "เลือกเว็บไซต์ Amazon ที่คุณชื่นชอบสำหรับการค้นหาอย่างรวดเร็ว:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "บันทึกการตั้งค่า",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "บันทึกการตั้งค่าแล้ว! การเปลี่ยนแปลงจะมีผลทันที",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "ค้นหา '%s' บน Amazon",
+    "description": "Context menu item title"
+  }
+}

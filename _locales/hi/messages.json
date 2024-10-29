@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Amazon त्वरित खोज - Amazon पर खोजने के लिए राइट-क्लिक करें",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "राइट-क्लिक से तुरंत Amazon पर खोज करें! अपनी पसंदीदा Amazon साइट पर खोज करने के लिए किसी भी वेबपेज पर टेक्स्ट का चयन करें। अपना डिफ़ॉल्ट सेट करने के लिए 20 से अधिक वैश्विक Amazon स्टोर में से चुनें। अपनी स्थानीय Amazon वेबसाइट पर अपने शॉपिंग अनुभव को सरल बनाएं।",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Amazon त्वरित खोज सेटिंग्स",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "त्वरित खोज के लिए अपनी पसंदीदा Amazon वेबसाइट चुनें:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "सेटिंग्स सहेजें",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "सेटिंग्स सहेजी गईं! परिवर्तन तुरंत प्रभावी होंगे।",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Amazon पर '%s' खोजें",
+    "description": "Context menu item title"
+  }
+}

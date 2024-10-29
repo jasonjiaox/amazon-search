@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Pencarian Cepat Amazon - Klik kanan untuk mencari di Amazon",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Cari di Amazon secara instan dengan klik kanan! Pilih teks di halaman web mana pun untuk mencari di situs Amazon pilihan Anda. Pilih dari lebih dari 20 toko Amazon global untuk mengatur default Anda. Sederhanakan pengalaman belanja Anda di situs web Amazon lokal Anda.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Pengaturan Pencarian Cepat Amazon",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "Pilih situs web Amazon pilihan Anda untuk pencarian cepat:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "Simpan Pengaturan",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "Pengaturan disimpan! Perubahan akan segera berlaku.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Temukan '%s' di Amazon",
+    "description": "Context menu item title"
+  }
+}

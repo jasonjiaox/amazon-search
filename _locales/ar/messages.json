@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "البحث السريع في أمازون - انقر بزر الماوس الأيمن للبحث في أمازون",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "ابحث فورًا في أمازون بنقرة زر الماوس الأيمن! حدد النص على أي صفحة ويب للبحث في موقع أمازون المفضل لديك. اختر من بين أكثر من 20 متجرًا عالميًا لأمازون لتعيين الافتراضي الخاص بك. بسّط تجربة التسوق الخاصة بك على موقع أمازون المحلي.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "إعدادات البحث السريع في أمازون",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "حدد موقع أمازون المفضل لديك للبحث السريع:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "حفظ الإعدادات",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "تم حفظ الإعدادات! ستصبح التغييرات سارية المفعول على الفور.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "البحث عن '%s' على أمازون",
+    "description": "Context menu item title"
+  }
+}

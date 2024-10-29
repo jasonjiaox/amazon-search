@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Tìm kiếm nhanh Amazon - Nhấp chuột phải để tìm kiếm trên Amazon",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Tìm kiếm ngay lập tức trên Amazon bằng cách nhấp chuột phải! Chọn văn bản trên bất kỳ trang web nào để tìm kiếm trên trang Amazon ưa thích của bạn. Chọn từ hơn 20 cửa hàng Amazon toàn cầu để đặt mặc định của bạn. Đơn giản hóa trải nghiệm mua sắm của bạn trên trang web Amazon địa phương.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Cài đặt Tìm kiếm nhanh Amazon",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "Chọn trang web Amazon ưa thích của bạn cho tìm kiếm nhanh:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "Lưu Cài đặt",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "Đã lưu cài đặt! Các thay đổi sẽ có hiệu lực ngay lập tức.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Tìm '%s' trên Amazon",
+    "description": "Context menu item title"
+  }
+}

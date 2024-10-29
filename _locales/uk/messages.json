@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Швидкий пошук Amazon - Клацніть правою кнопкою миші для пошуку на Amazon",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Миттєво шукайте на Amazon одним клацанням правої кнопки миші! Виберіть текст на будь-якій веб-сторінці, щоб шукати на вашому улюбленому сайті Amazon. Виберіть з понад 20 глобальних магазинів Amazon, щоб встановити за замовчуванням. Спростіть свій досвід покупок на вашому місцевому веб-сайті Amazon.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Налаштування швидкого пошуку Amazon",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "Виберіть ваш улюблений веб-сайт Amazon для швидкого пошуку:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "Зберегти налаштування",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "Налаштування збережено! Зміни набудуть чинності негайно.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Знайти '%s' на Amazon",
+    "description": "Context menu item title"
+  }
+}

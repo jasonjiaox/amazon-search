@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Szybkie wyszukiwanie Amazon - Wyszukuj prawym kliknięciem",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Błyskawicznie wyszukuj na Amazon jednym kliknięciem prawego przycisku myszy! Zaznacz tekst na dowolnej stronie internetowej, aby wyszukać na preferowanej stronie Amazon. Wybierz spośród ponad 20 globalnych sklepów Amazon, aby ustawić domyślny. Usprawnij swoje zakupy na lokalnej stronie Amazon.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Ustawienia Szybkiego Wyszukiwania Amazon",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "Wybierz preferowaną stronę Amazon do szybkiego wyszukiwania:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "Zapisz Ustawienia",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "Ustawienia zapisane! Zmiany zaczną obowiązywać natychmiast.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Znajdź '%s' na Amazon",
+    "description": "Context menu item title"
+  }
+}

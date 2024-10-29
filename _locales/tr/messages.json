@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Amazon Hızlı Arama - Amazon'da arama yapmak için sağ tıklayın",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Sağ tıklamayla anında Amazon'da arama yapın! Tercih ettiğiniz Amazon sitesinde arama yapmak için herhangi bir web sayfasındaki metni seçin. Varsayılanınızı ayarlamak için 20'den fazla küresel Amazon mağazası arasından seçim yapın. Yerel Amazon web sitenizde alışveriş deneyiminizi kolaylaştırın.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Amazon Hızlı Arama Ayarları",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "Hızlı aramalar için tercih ettiğiniz Amazon web sitesini seçin:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "Ayarları Kaydet",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "Ayarlar kaydedildi! Değişiklikler hemen etkili olacak.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Amazon'da '%s' ara",
+    "description": "Context menu item title"
+  }
+}

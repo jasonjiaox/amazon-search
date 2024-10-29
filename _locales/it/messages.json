@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Ricerca Rapida Amazon - Clic destro per cercare su Amazon",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Cerca istantaneamente su Amazon con un clic destro! Seleziona il testo su qualsiasi pagina web per cercare sul tuo sito Amazon preferito. Scegli tra oltre 20 negozi Amazon globali per impostare il tuo predefinito. Semplifica la tua esperienza di acquisto sul tuo sito web Amazon locale.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Impostazioni Ricerca Rapida Amazon",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "Seleziona il tuo sito web Amazon preferito per le ricerche rapide:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "Salva Impostazioni",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "Impostazioni salvate! Le modifiche avranno effetto immediatamente.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Trova '%s' su Amazon",
+    "description": "Context menu item title"
+  }
+}

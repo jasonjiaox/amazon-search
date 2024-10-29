@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "亚马逊快速搜索 - 右键点击在亚马逊上搜索",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "右键即可快速搜索亚马逊！在任何网页上选择文本以搜索您首选的亚马逊站点。从20多个全球亚马逊商店中选择设置您的默认站点。简化您在本地亚马逊网站上的购物体验。",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "亚马逊快速搜索设置",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "选择您首选的亚马逊网站进行快速搜索：",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "保存设置",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "设置已保存！更改将立即生效。",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "在亚马逊上查找 '%s'",
+    "description": "Context menu item title"
+  }
+}

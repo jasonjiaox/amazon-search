@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Amazon Snelzoeken - Rechtermuisklik om op Amazon te zoeken",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Zoek direct op Amazon met een rechtermuisklik! Selecteer tekst op een webpagina om te zoeken op je favoriete Amazon-site. Kies uit meer dan 20 wereldwijde Amazon-winkels om je standaard in te stellen. Stroomlijn je winkelervaring op je lokale Amazon-website.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Amazon Snelzoeken Instellingen",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "Selecteer je favoriete Amazon-website voor snelzoeken:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "Instellingen Opslaan",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "Instellingen opgeslagen! Wijzigingen worden onmiddellijk van kracht.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Zoek '%s' op Amazon",
+    "description": "Context menu item title"
+  }
+}

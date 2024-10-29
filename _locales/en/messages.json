@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Amazon Quick Search - Right-click to search on Amazon",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Instantly search Amazon with a right-click! Select text on any webpage to search your preferred Amazon site.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Amazon Quick Search Settings",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "Select your preferred Amazon website for quick searches:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "Save Settings",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "Settings saved! Changes will take effect immediately.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Find '%s' on Amazon",
+    "description": "Context menu item title"
+  }
+}

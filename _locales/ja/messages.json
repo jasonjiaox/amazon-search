@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Amazon クイック検索 - 右クリックで Amazon を検索",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "右クリックで即座に Amazon を検索！ウェブページ上のテキストを選択して、お好みの Amazon サイトで検索できます。20以上のグローバル Amazon ストアからデフォルトを設定できます。地域の Amazon ウェブサイトでのショッピング体験を効率化します。",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Amazon クイック検索設定",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "クイック検索に使用する Amazon ウェブサイトを選択してください：",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "設定を保存",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "設定が保存されました！変更はすぐに反映されます。",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Amazon で '%s' を検索",
+    "description": "Context menu item title"
+  }
+}

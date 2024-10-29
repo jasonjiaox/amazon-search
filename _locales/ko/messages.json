@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "아마존 빠른 검색 - 우클릭으로 아마존 검색",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "우클릭으로 즉시 아마존 검색! 웹 페이지에서 텍스트를 선택하여 선호하는 아마존 사이트에서 검색하세요. 20개 이상의 글로벌 아마존 스토어 중 기본값을 설정할 수 있습니다. 지역 아마존 웹사이트에서의 쇼핑 경험을 간소화하세요.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "아마존 빠른 검색 설정",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "빠른 검색에 사용할 아마존 웹사이트를 선택하세요:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "설정 저장",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "설정이 저장되었습니다! 변경사항이 즉시 적용됩니.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "아마존에서 '%s' 찾기",
+    "description": "Context menu item title"
+  }
+}

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="optionsTitle"></title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            width: 300px;
+            padding: 15px;
+        }
+        h1 {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        p {
+            font-size: 14px;
+            margin-bottom: 15px;
+        }
+        select {
+            width: 100%;
+            padding: 5px;
+            margin-bottom: 15px;
+        }
+        button {
+            width: 100%;
+            padding: 8px;
+            background-color: #ff9900;
+            cursor: pointer;
+            border: none;
+        }
+        #status, #statusMsg {
+            font-size: 12px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 data-i18n="optionsTitle"></h1>
+    <p data-i18n="optionsSelectStore"></p>
+    <select id="setting">
+        <option value="com">amazon.com</option>
+        <option value="ca">amazon.ca</option>
+        <option value="nl">amazon.nl</option>
+        <option value="sg">amazon.sg</option>
+        <option value="cn">amazon.cn</option>
+        <option value="se">amazon.se</option>
+        <option value="co.jp">amazon.co.jp</option>
+        <option value="co.uk">amazon.co.uk</option>
+        <option value="com.br">amazon.com.br</option>
+        <option value="com.mx">amazon.com.mx</option>
+        <option value="com.au">amazon.com.au</option>
+        <option value="com.be">amazon.com.be</option>
+        <option value="de">amazon.de</option>
+        <option value="es">amazon.es</option>
+        <option value="fr">amazon.fr</option>
+        <option value="in">amazon.in</option>
+        <option value="it">amazon.it</option>
+        <option value="pl">amazon.pl</option>
+        <option value="eg">amazon.eg</option>
+        <option value="ae">amazon.ae</option>
+        <option value="sa">amazon.sa</option>
+        <option value="com.tr">amazon.com.tr</option>
+    </select>
+    <button id="save" data-i18n="saveButton"></button>
+    <div id="status"></div>
+    <div id="statusMsg"></div>
+    <script src="options.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Amazon快速搜尋 - 右鍵點擊搜尋Amazon網站",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "右鍵即可快速搜尋 Amazon！在任何網頁上選擇文字以搜尋您偏好的 Amazon 網站。從 20 多個全球 Amazon 商店中選擇設定您的預設網站。簡化您在本地 Amazon 網站上的購物體驗。",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Amazon 快速搜尋設定",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "選擇您偏好的 Amazon 網站進行快速搜尋：",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "儲存設定",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "設定已儲存！變更將立即生效。",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "在 Amazon 上搜尋 '%s'",
+    "description": "Context menu item title"
+  }
+}

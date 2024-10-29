@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Amazon Snabbsökning - Högerklicka för att söka på Amazon",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Sök direkt på Amazon med ett högerklick! Markera text på vilken webbsida som helst för att söka på din föredragna Amazon-sida. Välj bland över 20 globala Amazon-butiker för att ställa in din standard. Effektivisera din shoppingupplevelse på din lokala Amazon-webbplats.",
+    "description": "The description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Amazon Snabbsökning Inställningar",
+    "description": "The title of the options page"
+  },
+  "optionsSelectStore": {
+    "message": "Välj din föredragna Amazon-webbplats för snabbsökningar:",
+    "description": "The label for the store selection dropdown"
+  },
+  "saveButton": {
+    "message": "Spara Inställningar",
+    "description": "The text for the save button"
+  },
+  "settingsSaved": {
+    "message": "Inställningar sparade! Ändringarna träder i kraft omedelbart.",
+    "description": "The message shown when settings are saved"
+  },
+  "contextMenuTitle": {
+    "message": "Hitta '%s' på Amazon",
+    "description": "Context menu item title"
+  }
+}
