@@ -34,4 +34,8 @@ Diese Erweiterung sammelt keine persönlichen Daten. Alle Einstellungen werden l
 
 ## Lizenz
 
-MIT-Lizenz 
+MIT-Lizenz
+
+## Verwandte Tools
+
+- [BuySmart AI](https://www.buysmart.ai/chat) - KI-gestützter Shopping-Assistent 

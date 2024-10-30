@@ -36,3 +36,7 @@
 ## 许可证
 
 MIT许可证
+
+## 相关工具
+
+- [BuySmart AI](https://www.buysmart.ai/chat) - AI驱动的购物助手

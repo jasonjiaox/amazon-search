@@ -35,3 +35,7 @@ Esta extensión no recopila ningún dato personal. Todas las configuraciones se 
 ## Licencia
 
 Licencia MIT 
+
+## Herramientas Relacionadas
+
+- [BuySmart AI](https://www.buysmart.ai/chat) - Asistente de compras impulsado por IA

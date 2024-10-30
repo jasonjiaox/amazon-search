@@ -35,4 +35,8 @@
 
 ## लाइसेंस
 
-MIT लाइसेंस 
+MIT लाइसेंस
+
+## संबंधित टूल्स
+
+- [BuySmart AI](https://www.buysmart.ai/chat) - AI-संचालित शॉपिंग सहायक

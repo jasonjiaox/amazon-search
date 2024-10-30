@@ -36,3 +36,7 @@ This extension does not collect any personal data. All settings are stored local
 ## License
 
 MIT License
+
+## Related Tools
+
+- [BuySmart AI](https://www.buysmart.ai/chat) - AI-powered shopping assistant

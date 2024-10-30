@@ -36,3 +36,7 @@ Questa estensione non raccoglie alcun dato personale. Tutte le impostazioni sono
 ## Licenza
 
 Licenza MIT 
+
+## Strumenti Correlati
+
+- [BuySmart AI](https://www.buysmart.ai/chat) - Assistente shopping basato su IA 

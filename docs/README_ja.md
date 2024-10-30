@@ -34,4 +34,8 @@
 
 ## ライセンス
 
-MITライセンス 
+MITライセンス
+
+## 関連ツール
+
+- [BuySmart AI](https://www.buysmart.ai/chat) - AI搭載のショッピングアシスタント

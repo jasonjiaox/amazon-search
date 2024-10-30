@@ -36,3 +36,7 @@ Cette extension ne collecte aucune donnée personnelle. Tous les paramètres son
 ## Licence
 
 Licence MIT 
+
+## Outils Connexes
+
+- [BuySmart AI](https://www.buysmart.ai/chat) - Assistant shopping alimenté par l'IA
